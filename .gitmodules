@@ -1,3 +1,6 @@
 [submodule "KernelSU-Next"]
 	path = KernelSU-Next
 	url = git@github.com:infectedmushi/KernelSU-Next.git
+[submodule "susfs4ksu"]
+	path = susfs4ksu
+	url = git@github.com:infectedmushi/susfs4ksu.git
